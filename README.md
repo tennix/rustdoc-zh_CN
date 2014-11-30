@@ -5,8 +5,8 @@
 - [x] [index](zh_CN/index.md) by [tennix](https://github.com/tennix)
 - [x] [intro](zh_CN/intro.md) by [tennix](https://github.com/tennix)
 - [x] [guide](zh_CN/guide.md) by [tennix](https://github.com/tennix)
-- [ ] [macros](zh_CN/guide-macros.md) by [tennix](https://github.com/tennix)
-- [ ] [tasks](zh_CN/guide-tasks.md) by [tennix](https://github.com/tennix)
+- [x] [macros](zh_CN/guide-macros.md) by [tennix](https://github.com/tennix)
+- [x] [tasks](zh_CN/guide-tasks.md) by [tennix](https://github.com/tennix)
 
 
 ## English Documentations:
