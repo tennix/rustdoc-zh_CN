@@ -1,16 +1,22 @@
 这里是 [Rust](http://rust-lang.org) 官方文档的中文翻译项目
 
+**NOTE:** Doc 是早期 0.11 版的文档，Book 是最新 1.0-stable 版的 The Rust Programming Language(trpl)
+
 ## 中文翻译
 
+### Doc
 - [x] [index](zh_CN/index.md) by [tennix](https://github.com/tennix)
 - [x] [intro](zh_CN/intro.md) by [tennix](https://github.com/tennix)
 - [x] [guide](zh_CN/guide.md) by [tennix](https://github.com/tennix)
 - [x] [macros](zh_CN/guide-macros.md) by [tennix](https://github.com/tennix)
 - [x] [tasks](zh_CN/guide-tasks.md) by [tennix](https://github.com/tennix)
 
+### Book
+
 
 ## English Documentations:
 
+### Doc
 - [index](en_US/index.md)
 - [intro](en_US/intro.md)
 - [guide](en_US/guide.md)
@@ -29,6 +35,8 @@
 - [Language FAQ](en_US/complement-lang-faq.md)
 - [Project FAQ](en_US/complement-project-faq.md)
 - [How to submit a bug report](en_US/complement-bugreport.md)
+
+### Book
 
 
 ## 如何贡献（How to contribute）
